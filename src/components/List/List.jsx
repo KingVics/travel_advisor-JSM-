@@ -14,7 +14,7 @@ const List = ({places, childClicked, isLoading, type, setType, rating, setRating
     }, [places]);
 
 
-    console.log({childClicked})
+   
 
     return (
         <div className={classes.container}>
